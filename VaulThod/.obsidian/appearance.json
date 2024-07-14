@@ -1,0 +1,12 @@
+{
+  "accentColor": "#be3c3c",
+  "enabledCssSnippets": [
+    "coloredSidebarItem",
+    "width"
+  ],
+  "cssTheme": "",
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "theme": "obsidian"
+}

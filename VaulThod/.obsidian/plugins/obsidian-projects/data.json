@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01 - Projects/Blog",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "01 - Projects/Blog/Post",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 293
+              },
+              "path": {
+                "width": 275,
+                "hide": true
+              },
+              "tags": {
+                "width": 819
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "dd8a0ec1-5316-4607-aa9d-0b68749922b5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "3e0a2de8-93e1-4768-9aa2-aed03cba0f10",
+      "name": "Blog"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "backgroundTheme": "transparent with shadows",
+  "customBackground": "",
+  "localBackgrounds": [],
+  "showTopLeftSearchButton": false,
+  "topLeftSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showTime": true,
+  "timeFormat": "24-hour",
+  "showGreeting": false,
+  "greetingText": "Hello, Beautiful.",
+  "showInlineSearch": true,
+  "inlineSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showRecentFiles": true,
+  "showBookmarks": true,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": false,
+  "quoteSource": "Quoteable",
+  "customQuotes": []
+}

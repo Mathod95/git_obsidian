@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "21fa01010f464816",
+    "type": "split",
+    "children": [
+      {
+        "id": "70459b6937fa4de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44af7d2a142114df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Blog/Kubernetes/Apps/Argo/CD/Installation et configuration de ArgoCD.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c17d24ce3cfb19f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Saltbox/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5bf023ef939db00",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e44a61ae6b319e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6319038150b3c6b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "387a13fd3de3fc6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3df5d9c9c222735e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "right": {
+    "id": "8af570abce12d49f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1f87ec996d0b6c",
+        "type": "tabs",
+        "dimension": 67.74425287356321,
+        "children": [
+          {
+            "id": "f19d3b64c0e06d2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projects/Saltbox/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acb9b3be3400b52b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Projects/Saltbox/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c92e8fc3a6f291c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a9317692ba848c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Projects/Saltbox/test.md"
+              }
+            }
+          },
+          {
+            "id": "21414b5500288c06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "995e60bdece6a60d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b9da0589c64949ae",
+        "type": "tabs",
+        "dimension": 32.25574712643678,
+        "children": [
+          {
+            "id": "3b3862273fd50c24",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01 - Projects/Saltbox/test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-projects:Open projects": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c17d24ce3cfb19f9",
+  "lastOpenFiles": [
+    "01 - Projects/Saltbox/test.md",
+    "01 - Projects/Blog/Kubernetes/Kubectl/Kubectl.md",
+    "01 - Projects/Blog/Kubernetes/Kubectl/Cheatsheet.md",
+    "01 - Projects/Blog/Kubernetes/Helm/Cheatsheet.md",
+    "01 - Projects/Blog/Kubernetes/Apps/Crossplane/Komoplane.md",
+    "01 - Projects/Blog/Kubernetes/Apps/Crossplane/Create a composition with Crossplane.md",
+    "01 - Projects/Blog/Kubernetes/Apps/Argo/CD/Installation et configuration de ArgoCD.md",
+    "01 - Projects/Blog/Kubernetes/Objects/Probes/Startup, Liveness et Readiness Probes.md",
+    "01 - Projects/Blog/Kubernetes/Objects/Pods/securityContext.md",
+    "01 - Projects/Blog/Kubernetes/Objects/Namespaces/Namespaces.md",
+    "Pasted Image 20240508032313_091.png",
+    "Pasted Image 20240508233100_611.png",
+    "Pasted Image 20240508032736_151.png",
+    "Pasted Image 20240508193001_557.png",
+    "Pasted Image 20240605024434_433.png",
+    "Pasted Image 20240605023203_187.png",
+    "Pasted Image 20240508233109_838.png",
+    "03 - Resources/Medium/Liveness, Readiness and Startup Probes.md",
+    "03 - Resources/Medium/ArgoCD - Setup external clusters by name.md",
+    "03 - Resources/Medium/Conquering Multi-Cluster Kubernetes with Centralized Add-on Managemen.md",
+    "03 - Resources/Medium/Endpoint slice API.md",
+    "01 - Projects/Blog/Glossary.md",
+    "01 - Projects/Blog/Shell/KinD/KinD cheatsheet.md",
+    "01 - Projects/WSL/Nerd Font.md",
+    "02 - Areas/Notes/Autocompletion.md",
+    "02 - Areas/Notes/Kube-Score.md",
+    "02 - Areas/Blogging.md",
+    "01 - Projects/Blog/Shell/Zellij/Zellij.md",
+    "01 - Projects/Blog/Shell/KinD/Installation et configuration de KinD.md",
+    "Pasted Image 20240604235732_629.png",
+    "Pasted Image 20240605020649_335.png",
+    "Pasted Image 20240605022748_128.png",
+    "03 - Resources/Excalidraw/BarStick.md",
+    "03 - Resources/Excalidraw/kubectl.md",
+    "03 - Resources/Excalidraw/PreviewEnv.md",
+    "03 - Resources/Excalidraw/kubernetesDiagram.md",
+    "02 - Areas/Blogger",
+    "01 - Projects/Blog/Shell/Kube-Score",
+    "01 - Projects/Blog/Shell/Zellij",
+    "02 - Areas/Notes",
+    "03 - Resources/Medium/2024-05-29-OptimizingArgoCDforMonoreposetupMedium.md.crswap",
+    "03 - Resources/Medium/2024-05-29-ConqueringMulti-ClusterKuberneteswithCentralizedAdd-onManagementbyGianlucaMardenteMay,2024ITNEXT.md.crswap",
+    "03 - Resources/Medium/2024-05-29-KubernetesAutoRestartDeploymentswhenK8sConfigMaporSecretisUpdatedbyHarshvijaythakkarMay,2024Medium.md.crswap",
+    "03 - Resources/Medium/2024-05-26-RBACinKubernetes.WhatisRBACbyRamkrushnaMaheshwarMedium.md.crswap",
+    "03 - Resources/Medium/2024-05-26-werf2.0isoutwithanewdeploymentengineNelmreplacingHelmbyFlantstaffMay,2024werfblog.md.crswap",
+    "03 - Resources/Medium/2024-05-26-AmazonEKSAnalyzecontrolplaneandCloudTraillogsforbetterdetectivecontrolsbySeifeddineRajhiMay,2024Medi.md.crswap"
+  ]
+}
